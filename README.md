@@ -1,2 +1,4 @@
-1.https://NatalliaKri.github.io/rsschool-cv/cv
-3.https://NatalliaKri.github.io/rsschool-cv/
+https://NatalliaKri.github.io/rsschool-cv/cv
+
+
+https://NatalliaKri.github.io/rsschool-cv/
